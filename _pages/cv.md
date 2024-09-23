@@ -11,26 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Information Systems, National University of Singapore, 2026 (expected)
+* M.S. in Management Science and Engineering, Harbin Institute of Technology, 2020
+* B.S. in Chemistry (1st major); B.S. in Management Information Systems (2nd major), Harbin Institute of Technology, 2018
   
 Skills
 ======
