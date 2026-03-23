@@ -10,5 +10,5 @@ author_profile: true
   <a href="/files/cv.pdf" target="_blank">Download CV (PDF)</a>
 </p>
 
-<iframe src="/files/cv.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="/files/Curriculum_Vitae.pdf" width="100%" height="800px" style="border: none;">
 </iframe>
