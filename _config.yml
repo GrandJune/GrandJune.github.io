@@ -21,10 +21,10 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/Junyi.jpg"
   name             : "Junyi Li"
   pronouns         : # example: "she/her"  
-  bio              : "Phd Student in Information Systems"
+  bio              : "Phd Candidate in Information Systems"
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
