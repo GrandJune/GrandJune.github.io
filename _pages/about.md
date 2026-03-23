@@ -2,6 +2,8 @@
 permalink: /
 title: "About"
 author_profile: true
+header:
+  title: "About"
 redirect_from: 
   - /about/
   - /about.html
@@ -9,7 +11,7 @@ redirect_from:
 
 I am a PhD candidate in Information Systems at the National University of Singapore, advised by [Jungpil Hahn](https://www.comp.nus.edu.sg/disa/people/jungpil/). My research sits at the intersection of information systems and organization theory, with a focus on emerging forms of organizing in blockchain-based, AI-embedded, and self-organizing contexts.
 
-My work examines how digital and decentralized arrangements shape collective decision-making, innovation, and organizational adaptability. In particular, I study two broad questions: how decentralized organizations aggregate knowledge and make decisions, and how distributed expertise shapes problem solving in crowds. Methodologically, I work primarily with analytical and computational models, including agent-based modeling, and I also draw on reduced-form econometrics where appropriate.
+My work examines how digital and decentralized arrangements shape collective decision-making, innovation, and organizational adaptability. In particular, I study two broad questions: how decentralized organizations aggregate knowledge and make decisions, and how distributed expertise shapes problem-solving in crowds. Methodologically, I work primarily with analytical and computational models, including agent-based modeling, and I also draw on reduced-form econometrics where appropriate.
 
 My dissertation, *The Future of Decentralization: Coordination Mechanisms and Favorable Boundaries*, investigates when decentralized governance improves or undermines adaptive capacity. One stream of this work develops theory on organizational learning through digital consensus in DAO-like systems. Another examines knowledge-structured search in crowdsourcing, with attention to knowledge breadth, depth, and problem complexity.
 
@@ -17,9 +19,8 @@ More broadly, I am interested in the design of organizational arrangements for c
 
 ## Research Interests
 
-- Information systems and organization theory
-- Decentralized governance and DAOs
-- Organizational learning and adaptation
+- Decentralized governance
+- Organizational learning
 - Crowdsourcing and collective intelligence
 - Human–AI and algorithmic organizing
 - Computational modeling and agent-based simulation
@@ -35,13 +36,6 @@ More broadly, I am interested in the design of organizational arrangements for c
 - **Organizational Learning with Algorithmic Predictions**  
   Presented at CIST 2025.
 
-## Teaching
-
-At NUS, I have served as a teaching assistant for:
-
-- **BT2101 Econometric Modeling for Business Analytics**
-- **IS5003 Platform Design and Economy**
-- **IS4302 Blockchain and Distributed Ledger Technologies**
 
 ## Service
 
