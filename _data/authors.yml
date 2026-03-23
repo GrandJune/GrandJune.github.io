@@ -1,18 +1,10 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Junyi Li:
+  name        : "Junyi Li"
+  avatar      : "/images/Junyi.jpg"
+  bio         : "PhD Candidate in Information Systems, National University of Singapore"
+  location    : "Singapore"
+  email       : "junyili [at] u [dot] nus [dot] edu"
+  uri         : "https://grandjune.github.io/"
+  google_scholar: "https://scholar.google.com/citations?&user=mqeGEBgAAAAJ"
+  github      : "GrandJune"
+  linkedin    : "junyi-li-018409105"
