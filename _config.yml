@@ -21,14 +21,14 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/Junyi.jpeg"
   name             : "Junyi Li"
   pronouns         : # example: "she/her"  
   bio              : "Phd Candidate in Information Systems"
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
-  email            : "junyili@u.nus.edu" 
+  email            : "e0546117@u.nus.edu" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
