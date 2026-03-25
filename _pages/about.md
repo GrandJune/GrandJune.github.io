@@ -25,6 +25,16 @@ More broadly, I am interested in the design of organizational arrangements for c
 - Human–AI and algorithmic organizing
 - Computational modeling and agent-based simulation
 
+## Awards & Honors
+
+- **Research Achievement Award**, National University of Singapore, 2024  
+- **Best Conference Paper Award (2nd Runner-up)**, International Conference on Information Systems (ICIS), 2023  
+- **Travel Grants**, National University of Singapore, 2023–2025  
+- **Student Research Assistant Scheme**, NUS FinTech Lab, 2024–Present  
+- **National Graduate Scholarship**, Harbin Institute of Technology, 2018  
+- **Outstanding Graduate Award**, Harbin Institute of Technology, 2018  
+- **Merit Student Award**, Harbin Institute of Technology, 2017  
+
 ## Current Projects
 
 - **Organizational Learning Through Digital Consensus**  
@@ -35,7 +45,6 @@ More broadly, I am interested in the design of organizational arrangements for c
 
 - **Organizational Learning with Algorithmic Predictions**  
   Presented at CIST 2025.
-
 
 ## Service
 
