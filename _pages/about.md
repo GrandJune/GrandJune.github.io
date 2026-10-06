@@ -15,7 +15,7 @@ My research asks **how information technologies alter organizational design**. I
 
 - **Distribution of authority** — Organizational design in blockchain-based DAOs.
 - **Distribution of knowledge** — Crowdsourcing design that facilitates the discovery of innovative ideas.
-- **Distribution of agency** — Human–AI organizing, including AI-assisted human–human collaboration, organizational knowledge capture and retention from agentic work, and the division of labor between humans and AI.
+- **Distribution of agency** — Design of human–AI organizing, including AI-assisted human–human collaboration, organizational knowledge capture and retention from agentic work, and the division of labor between humans and AI.
 
 Methodologically, I favor computational modeling to formalize and advance theory.
 
